@@ -1,4 +1,4 @@
 # conditionalExcercise
 My Excercise of conditional in Javascript
 
-All of my excercise is from codecademy course.
+All of my excercise are from codecademy course.
